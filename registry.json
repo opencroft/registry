@@ -1,3 +1,11 @@
 {
-  "extensions": [] 
+  "extensions": [
+    {
+      "id": "opencroft/file-manager",
+      "name": "File Manager",
+      "description": "File Manager extension — browse, upload and download files",
+      "repository": "https://github.com/opencroft/file-manager",
+      "author": "OpenCroft"
+    }
+  ]
 }

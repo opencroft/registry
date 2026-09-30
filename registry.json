@@ -6,6 +6,13 @@
       "description": "File Manager extension — browse, upload and download files",
       "repository": "https://github.com/opencroft/file-manager",
       "author": "OpenCroft"
+    },
+    {
+      "id": "opencroft/git",
+      "name": "Git",
+      "description": "Git App — clone repositories and manage worktrees for agents, review and commit in a full-page web git client over a remote terminal.",
+      "repository": "https://github.com/opencroft/git",
+      "author": "OpenCroft"
     }
   ]
 }

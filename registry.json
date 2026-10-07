@@ -1,17 +1,19 @@
 {
   "extensions": [
     {
-      "id": "opencroft/file-manager",
+      "id": "opencroft.file-manager",
       "name": "File Manager",
-      "description": "File Manager extension — browse, upload and download files",
+      "description": "Browse, upload and download files over terminal handles, S3 and FTP.",
       "repository": "https://github.com/opencroft/file-manager",
+      "branch": "dev",
       "author": "OpenCroft"
     },
     {
-      "id": "opencroft/git",
+      "id": "opencroft.git",
       "name": "Git",
       "description": "Git App — clone repositories and manage worktrees for agents, review and commit in a full-page web git client over a remote terminal.",
       "repository": "https://github.com/opencroft/git",
+      "branch": "dev",
       "author": "OpenCroft"
     }
   ]

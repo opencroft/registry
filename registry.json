@@ -47,6 +47,14 @@
       "repository": "https://github.com/opencroft/design-kit",
       "branch": "dev",
       "author": "OpenCroft"
+    },
+    {
+      "id": "opencroft.code-editor",
+      "name": "Code Editor",
+      "description": "VS Code (monaco-vscode-api workbench) on a folder of one of the space's terminals.",
+      "repository": "https://github.com/opencroft/code-editor",
+      "branch": "dev",
+      "author": "OpenCroft"
     }
   ]
 }
